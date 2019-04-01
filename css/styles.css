@@ -1,8 +1,15 @@
-body{
+
 
 }
-h1{
+h1, h3{
   margin: 0;
+}
+#navbar ul{
+  list-style-type: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
 }
 #container{
   background-color: white;
@@ -13,13 +20,14 @@ h1{
 #header{
   text-align: center;
   padding: 10px;
+  background-color: #3498DB;
 }
 #content{
   padding: 10px;
 }
 #main{
   width: 600px;
-  float: right;
+  float: left;
 }
 #navbar{
   width: 160px;

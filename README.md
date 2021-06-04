@@ -25,25 +25,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/?target=changelog)
 
-## Colour Schemes
 
-#### Colour 1 (pillar-1.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-1.jpg" width="400" alt="Pillar color 1" />
-
-#### Colour 2 (pillar-2.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-2.jpg" width="400" alt="Pillar color 2" />
-
-#### Colour 3 (pillar-3.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-3.jpg" width="400" alt="Pillar color 3" />
-
-#### Colour 4 (pillar-4.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-4.jpg" width="400" alt="Pillar color 4" />
-
-#### Colour 5 (pillar-5.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-5.jpg" width="400" alt="Pillar color 5" />
-
-#### Colour 6 (pillar-6.css)
-<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/pillar-theme-6.jpg" width="400" alt="Pillar color 6" />
 
 ## Features
 
